@@ -1,0 +1,18 @@
+{
+  "name": "auction-service",
+  "version": "1.0.0",
+  "author": "Ivsath",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "serverless-bundle": "^3.1.0",
+    "serverless-pseudo-parameters": "^2.5.0",
+    "webpack": "^4.44.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.748.0"
+  }
+}
