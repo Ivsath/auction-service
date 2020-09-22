@@ -10,9 +10,9 @@
     "babel-preset-env": "^1.6.0",
     "serverless-bundle": "^3.1.0",
     "serverless-pseudo-parameters": "^2.5.0",
-    "webpack": "^4.44.1"
+    "webpack": "^4.44.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.748.0"
+    "aws-sdk": "^2.758.0"
   }
 }
