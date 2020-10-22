@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "author": "Ivsath",
   "devDependencies": {
-    "babel-core": "^6.25.0",
+    "babel-core": "^6.26.3",
     "babel-loader": "^8.1.0",
     "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-polyfill": "^6.23.0",
-    "babel-preset-env": "^1.6.0",
-    "serverless-bundle": "^3.1.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "serverless-bundle": "^3.2.1",
     "serverless-pseudo-parameters": "^2.5.0",
     "webpack": "^4.44.2"
   },
@@ -18,7 +18,7 @@
     "@middy/http-event-normalizer": "^1.4.0",
     "@middy/http-json-body-parser": "^1.4.0",
     "@middy/validator": "^1.4.0",
-    "aws-sdk": "^2.758.0",
+    "aws-sdk": "^2.776.0",
     "http-errors": "^1.8.0",
     "uuid": "^8.3.1"
   }
