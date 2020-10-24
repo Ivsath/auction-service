@@ -1,6 +1,5 @@
 # Serverless Framework
 
-
 ## Getting started
 
 ```
