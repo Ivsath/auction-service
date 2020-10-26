@@ -1,5 +1,3 @@
-org: ivsath
-app: auction-service
 service:
   name: auction-service
 
